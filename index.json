@@ -1,0 +1,11 @@
+{
+  "org": "canonical",
+  "repo": "kratos-operator",
+  "versions": [
+    {
+      "commit": "f68a77402cbf15eceaf4736b91c023be90888160",
+      "tag": "",
+      "parsed_at": "2026-11-08T15:37:45.003208+00:00"
+    }
+  ]
+}
