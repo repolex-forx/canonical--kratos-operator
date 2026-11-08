@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/canonical/kratos-operator/commit/f68a77402cbf15eceaf4736b91c023be90888160",
       "git:hexsha": "f68a77402cbf15eceaf4736b91c023be90888160",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T15:37:45.001785+00:00"
     },
     {
       "@id": "https://repolex.ai/r/canonical/kratos-operator/commit/bf1bde457054aafcd370ee8a6da506015152fd1f",
